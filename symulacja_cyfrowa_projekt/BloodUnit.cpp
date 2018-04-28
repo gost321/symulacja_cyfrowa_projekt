@@ -1,5 +1,5 @@
 #include "BloodUnit.h"
-
+//domar domar ty chuju
 int BloodUnit::iDHandler = 0;
 
 BloodUnit::BloodUnit(int utilizationTime)
